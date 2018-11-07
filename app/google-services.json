@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1044052915394",
+    "firebase_url": "https://fir-io-7132c.firebaseio.com",
+    "project_id": "fir-io-7132c",
+    "storage_bucket": "fir-io-7132c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044052915394:android:29113d77095bb440",
+        "android_client_info": {
+          "package_name": "th.co.geotalent.joe.firebaseio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044052915394-h1j7237gg572ccons0d657f8teee35mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.co.geotalent.joe.firebaseio",
+            "certificate_hash": "4c2d43bbac02853d4579c730f7208a354001508f"
+          }
+        },
+        {
+          "client_id": "1044052915394-hfsv28q5g975okh931hb93vigu6mkq6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFB-01Z09YSdwQBrQBRQuRp3YjzTyNir4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044052915394-hfsv28q5g975okh931hb93vigu6mkq6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
